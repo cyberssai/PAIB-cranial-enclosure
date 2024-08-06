@@ -1,16 +1,22 @@
 MIT License
 
-Copyright (c) 2024 cyberssai
+Copyright (c) 2021 Software Solutions Corporation and SSAI Institute of Technology
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+of this software and associated documentation files (the "Software"), for research
+and educational purposes only. With those limitations the Software is offered without restriction, 
+including the rights to use, copy, modify, merge, publish, copies of the Software,
+and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+The above copyright notice, credits to the author, and associations with the companies mention is
+included in all distributions. This permission notice shall be included in all
 copies or substantial portions of the Software.
+
+All libraries shall be part of this repository prior to publishing.
+
+Commercialization of the Software is allowed only thru written permission from Author and
+sponsoring enteties.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
